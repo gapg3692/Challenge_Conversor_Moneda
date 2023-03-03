@@ -1,4 +1,4 @@
-# Challenge_Conversor_Moneda: A program that convert units
+# Challenge Conversor Moneda: A program that convert units
 ![Badge en Desarollo](https://img.shields.io/badge/Status-En%20Desarrorro-green)
 ![Badge Creador](https://img.shields.io/badge/CREATED%20BY-Gabriel%20Paneca-blue) 
 ![Badge version](https://img.shields.io/badge/VERSION-1.0.0-blue)
@@ -6,8 +6,20 @@
 
 This is a program to change scales between different units (Money, Temperature, Measurement Units).
 
+## Índice
 
-# Visual
+* [Challenge Conversor Moneda: A program that convert units](#challenge-conversor-moneda-a-program-that-convert-units)
+
+* [Índice](#índice)
+
+* [Visual](#visual)
+
+* [ComboBoxes](#comboboxes)
+
+* [Validations](#validations)
+
+
+## Visual
 This application has three tabs that are: Currency, Temperature and Units of Measurement.
 
 ![image](https://user-images.githubusercontent.com/106703790/222814717-60d437fb-6eaa-444b-91ae-1fd6a49cbdf2.png)
@@ -16,14 +28,12 @@ Currency works using an API on the internet. makes requests to take the differen
 
 Temperature and units of measure work with their own methods from mathematical formulas.
 
-# ComboBoxes
+## ComboBoxes
 ComboBoxes have autocompletion to facilitate the search for coins by the user.
 
 ![image](https://user-images.githubusercontent.com/106703790/222816416-37c66b3b-fd89-419c-9626-3fb4105055eb.png)
 
-
-
-# Validations
+## Validations
 All the windows have validation of allowed characters and in case of alert it sends a warning.
 
 You can only use numbers, if you use letters or another special caracter you are going to see a popup like this:
