@@ -12,6 +12,7 @@ public class CallClass {
 		 
 		 MainScreen nuevaVentana = new MainScreen();
 		 nuevaVentana.setVisible(true);
+		 nuevaVentana.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		 
 	}
 
